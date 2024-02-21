@@ -3546,7 +3546,7 @@ torrdroidforpc.com##[href^="http://slugmefilehos.xyz/"]
 ||magiskroot.net^$all
 ||magisks.com^$all
 ||themagisk.com^$all
-||magiskzip.*^$all
+||magiskupdate.*^$all
 ||magiskmodule.com^$all
 ||magiskmanagerroot.com^$all
 ||magisk.download^$all
